@@ -10,7 +10,7 @@ public class AvarageOFN {
         int b = sc.nextInt();
         int c = sc.nextInt();
 
-        float avarage = (a+b+c )/ 3;
+        float avarage = (a+b+c )/ 3.0f;
 
         System.out.println(avarage);
 
