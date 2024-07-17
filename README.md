@@ -8,3 +8,7 @@ sum of 2 Number
 # Input number, a & b
 # calculate the sum, a + b
 # return the sum
+
+# new chapter recursion. 
+1. Marge sort
+2. Quick sort
