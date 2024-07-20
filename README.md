@@ -12,3 +12,4 @@ sum of 2 Number
 # new chapter recursion. 
 1. Marge sort
 2. Quick sort
+## Array List and Linked List chapter done!!
